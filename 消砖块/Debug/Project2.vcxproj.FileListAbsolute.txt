@@ -1,0 +1,2 @@
+E:\C++\文字游戏\Project2\Debug\Project2.exe
+E:\C++\文字游戏\Project2\Debug\Project2.pdb

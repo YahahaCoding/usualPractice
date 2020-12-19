@@ -1,0 +1,5 @@
+﻿  controller.cpp
+E:\C++\文字游戏\Project2\controller.cpp(740,8): warning C4101: “k”: 未引用的局部变量
+  main.cpp
+  正在生成代码...
+  Project2.vcxproj -> E:\C++\文字游戏\Project2\Debug\Project2.exe

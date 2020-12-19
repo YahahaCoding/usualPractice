@@ -1,0 +1,18 @@
+﻿  checkpoint.cpp
+  controller.cpp
+E:\C++\文字游戏\Project2\controller.cpp(740,8): warning C4101: “k”: 未引用的局部变量
+  game.cpp
+E:\C++\文字游戏\Project2\game.cpp(130,12): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\C++\文字游戏\Project2\game.cpp(132,13): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  main.cpp
+  map.cpp
+  object.cpp
+  time.cpp
+  tools.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+E:\C++\文字游戏\Project2\checkpoint.cpp(46): warning C4789: 缓冲区“`Game'::`2'::BrickBuff”(大小为 4000 字节)将溢出；4004 字节将在偏移 0 时开始写入
+E:\C++\文字游戏\Project2\game.cpp(136): warning C4789: 缓冲区“`Game'::`2'::BrickBuff”(大小为 4000 字节)将溢出；4004 字节将在偏移 0 时开始写入
+  All 44 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Project2.vcxproj -> E:\C++\文字游戏\Project2\Release\Project2.exe
